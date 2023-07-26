@@ -1,6 +1,6 @@
 # Parametric Design Repository
 
-![Parametric Design]([design_preview.png](https://parametric-architecture.com/wp-content/uploads/2021/10/Askhat-Saduov-Bridge-Archdaily2.jpg))
+![Parametric Design](https://parametric-architecture.com/wp-content/uploads/2021/10/Askhat-Saduov-Bridge-Archdaily2.jpg)
 
 ## Introduction
 
